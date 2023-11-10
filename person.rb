@@ -1,4 +1,4 @@
-class Person
+class Person < Nameable
   attr_accessor :name, :age
   attr_reader :id
 
@@ -20,7 +20,7 @@ class Person
   end
 
   def correct_name
-    @name.capitalize!
+    @name
   end
 end
 
