@@ -12,7 +12,6 @@ class Student < Person
     '¯(ツ)/¯'
   end
 
-  # day 3 project
   def classroom=(classroom)
     @classroom = classroom
     classroom.stuedents.push(self) unless classroom.stuedents.include?(self)
