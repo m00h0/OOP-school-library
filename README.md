@@ -81,11 +81,14 @@ To install the project's dependencies, with:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Victor Kanyi**
+👤 **Ahmed**
 
-- GitHub: [@jkanyi-web](https://github.com/jkanyi-web)
-- Twitter: [@V_Kanyi](https://twitter.com/V_Kanyi)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/victor-kanyi)
+- GitHub: [@newtonah0](https://github.com/newtonah0)
+
+👤 **Martin**
+
+- GitHub: [@martinkarugaba](https://github.com/martinkarugaba)
+
 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,7 +106,7 @@ To install the project's dependencies, with:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jkanyi-web/OOP_School_Library/issues)
+Feel free to check the [issues page](https://github.com/newtonah0/OOP-school-library/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
