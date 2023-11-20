@@ -1,10 +1,10 @@
-require './decorator'
-
 class TrimmerDecorator < Decorator
-  def correct_name
-    @nameable.correct_name
-    return unless @nameable.correct_name.length > 10
+  def initialize(nameable)
+    super
+    @nameable = nameable
+  end
 
-    @nameable.correct_name = @nameable.correct_name[0..9]
+  def correct_name
+    @nameable.correct_name.slice(0, 10)
   end
 end

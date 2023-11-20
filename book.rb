@@ -1,13 +1,22 @@
 class Book
-  attr_accessor :title, :author, :rentals
+  attr_accessor :id, :title, :author, :rentals
 
-  def initialize(title, author)
+  def initialize(id, title, author)
+    @id = id
     @title = title
     @author = author
     @rentals = []
   end
 
-  def add_rental(date, person)
-    Rental.new(date, self, person)
+  def add_rental(rental)
+    @rentals << rental
+  end
+
+  def to_hash
+    {
+      'id' => id,
+      'title' => title,
+      'author' => author
+    }
   end
 end
