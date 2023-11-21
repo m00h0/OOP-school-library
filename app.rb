@@ -43,6 +43,10 @@ class App
     @books << book
   end
 
+  def add_person(person)
+    @people << person
+  end
+
   def list_books
     @books.dup
   end
