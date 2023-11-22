@@ -6,7 +6,6 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Enumerable\] ](#-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,7 +24,10 @@
 
 # 📖 [OOP_School_Library] <a name="about-project"></a>
 
-**[Enumerable]** provides collection classes with several traversal and searching methods, and with the ability to sort. 
+**[OOP_School_Library]** 
+The OOP School Library is a Ruby-based application that simulates the operations of a school library. It leverages the principles of Object-Oriented Programming (OOP) to model real-world entities such as books, people, and rentals.
+
+The application provides collection classes with several traversal and searching methods, along with the ability to sort. This makes it easy to manage the library's resources and keep track of who has borrowed which books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -85,14 +87,12 @@ To install the project's dependencies, with:
 
 - GitHub: [@newtonah0](https://github.com/newtonah0)
 
-👤 **Martin**
+👤 **Martin Karugaba**
+- GitHub: [martinkarugaba](https://github.com/martinkarugaba)
+- Twitter: [@martin_karugaba](https://twitter.com/martin_karugaba)
+- LinkedIn: [martinkarugaba](https://www.linkedin.com/in/martinkarugaba/)
 
-- GitHub: [@martinkarugaba](https://github.com/martinkarugaba)
-
-
-  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
