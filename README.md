@@ -21,8 +21,6 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-
-
 # 📖 [OOP_School_Library] <a name="about-project"></a>
 
 **[Enumerable]** provides collection classes with several traversal and searching methods, and with the ability to sort. 
