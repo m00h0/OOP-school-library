@@ -62,7 +62,7 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone git@github.com:jkanyi-web/OOP_School_Library.git
+- write: git clone git@github.com:username-web/OOP_School_Library.git
 - get into to directory "OOP_School_Library"
 - write: npm install
 
