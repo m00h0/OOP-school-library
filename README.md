@@ -83,7 +83,7 @@ To install the project's dependencies, with:
 
 👤 **Ahmed**
 
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 👤 **Martin Karugaba**
 - GitHub: [martinkarugaba](https://github.com/martinkarugaba)
