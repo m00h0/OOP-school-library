@@ -95,8 +95,8 @@ To install the project's dependencies, with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add department heads and increase library structure
-- [ ] Have an online system of payment for library entrance and tickets
+- [ ] Add department heads and increase library structure.
+- [ ] Have an online system of payment for library entrance and tickets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
